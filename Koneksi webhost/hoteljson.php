@@ -4,7 +4,7 @@
     $password = "d{f7nIIMruqA(RjV";
     $dbname = "id16992561_lapangangis";
 
-    //Koneksi
+    //Koneksi hotel
     $conn = new mysqli($server,$username,$password,$dbname);
 
     //check koneksi
